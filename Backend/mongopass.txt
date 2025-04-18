@@ -1,0 +1,1 @@
+DB=mongodb+srv://lec-ass-1:lec-ass-1@cluster0.ofbmblv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0

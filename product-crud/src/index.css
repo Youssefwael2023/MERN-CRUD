@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(31, 31, 49) !important;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+input::placeholder {
+  color: rgb(31, 31, 49) !important;
+  font-size: 20px !important;
+}
+
+label {
+  color: white !important;
+  font-weight: bolder !important;
+  margin-bottom: 10px !important;
+  font-size: 20px !important;
+  margin-top: 30px !important;
+}
+
+.btn1 {
+  background-color: rgb(190, 195, 203);
+  font-size: 22px;
+  font-weight: bold;
+  color: white;
+  padding: 20px;
+  margin: 10px 0px;
+}
+
+.btn1:hover {
+  background-color: rgb(178, 199, 224);
+  color: white;
+}
+
+textarea::placeholder {
+  color: rgb(31, 31, 49) !important;
+  font-size: 20px !important;
+}
